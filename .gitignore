@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Variables de entorno
+.env
+
+
